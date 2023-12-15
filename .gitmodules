@@ -1,0 +1,6 @@
+[submodule "exam3.1"]
+	path = exam3.1
+	url = https://github.com/Winitj/exam3.1.git
+[submodule "exam3.2"]
+	path = exam3.2
+	url = https://github.com/Winitj/exam3.2.git
